@@ -1,59 +1,33 @@
 <h2>Cyber Lens </h2>
 
 <h2>Description</h2>
-<img width="1340" alt="Screenshot 2025-04-08 at 10 29 40 pm" src="https://github.com/user-attachments/assets/361055a1-744a-45ad-876f-211edfa88a47" />
+
 <img width="1369" alt="Screenshot 2025-04-08 at 10 29 12 pm" src="https://github.com/user-attachments/assets/3d17f545-3cb4-4123-b8ea-f62b171557a0" />
 
-<img width="744" alt="Screenshot 2025-04-08 at 11 11 11 pm" src="https://github.com/user-attachments/assets/73b58200-cc01-4df0-990c-ca078697cb47" />
-<img width="768" alt="Screenshot 2025-04-09 at 12 32 47 am" src="https://github.com/user-attachments/assets/49bb7282-7492-476f-b379-3d7fb9d1bb42" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 19 51 pm" src="https://github.com/user-attachments/assets/07d76466-ec2e-4481-9305-eb70526b88d7" />
-<img width="768" alt="Screenshot 2025-04-08 at 11 43 38 pm" src="https://github.com/user-attachments/assets/b6ba4912-02f7-4740-bf4c-d9cc2354047f" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 34 23 pm" src="https://github.com/user-attachments/assets/be2fd63e-e933-4fc3-b0f0-64116a21427f" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 23 39 pm" src="https://github.com/user-attachments/assets/874f5e6b-a780-4602-814c-75742ecd8d5a" />
-<img width="1060" alt="Screenshot 2025-04-08 at 10 57 33 pm" src="https://github.com/user-attachments/assets/093684e8-6d7e-4d3c-bbd6-c8c9fe55bb26" />
-<img width="886" alt="Screenshot 2025-04-08 at 10 38 02 pm" src="https://github.com/user-attachments/assets/c3800977-3d42-4653-8f96-1d2d7b83f585" />
-<img width="886" alt="Screenshot 2025-04-08 at 10 37 46 pm" src="https://github.com/user-attachments/assets/92698961-6b95-4aeb-8efd-bc28ec34a134" />
-<img width="691" alt="Screenshot 2025-04-08 at 10 34 44 pm" src="https://github.com/user-attachments/assets/0f49d5b3-34b4-43b8-8fe1-cf1d617ae937" />
-<img width="691" alt="Screenshot 2025-04-08 at 10 30 56 pm" src="https://github.com/user-attachments/assets/a558f686-45e0-4f81-98be-c35334cbbd87" />
+<h2>Environments Used </h2>
 
-<img width="768" alt="Screenshot 2025-04-09 at 12 29 08 am" src="https://github.com/user-attachments/assets/cea7aed2-50ed-4f91-93f3-5f0f258e62d6" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 19 19 pm" src="https://github.com/user-attachments/assets/9b55df2a-2208-407e-9e39-97e67e7899e6" />
-<img width="768" alt="Screenshot 2025-04-08 at 11 43 09 pm" src="https://github.com/user-attachments/assets/668fcc33-2165-4f47-a1a5-e1f5c6366049" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 33 24 pm" src="https://github.com/user-attachments/assets/2e8bd1f4-4542-4295-8cc4-17ca91f1f6da" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 23 18 pm" src="https://github.com/user-attachments/assets/d6161b06-0d3a-4e87-bf9a-63584966fec4" />
-<img width="744" alt="Screenshot 2025-04-08 at 11 10 22 pm" src="https://github.com/user-attachments/assets/7b2a43bd-fb86-403e-bf5b-8018d2c079de" />
-<img width="768" alt="Screenshot 2025-04-09 at 12 08 28 am" src="https://github.com/user-attachments/assets/e63f407b-92a5-4d2d-b21d-45e4467fa77a" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 27 00 pm" src="https://github.com/user-attachments/assets/7a2c8803-4d16-4873-9adf-b0bea8de45d5" />
-<img width="768" alt="Screenshot 2025-04-09 at 9 18 34 pm" src="https://github.com/user-attachments/assets/048b4a74-6f5f-425d-be62-7f0c0621d677" />
-<img width="768" alt="Screenshot 2025-04-08 at 11 42 15 pm" src="https://github.com/user-attachments/assets/63561e36-0943-4216-a347-0245fe5fad08" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 31 56 pm" src="https://github.com/user-attachments/assets/82d4fbe3-0e99-467f-9b4c-6e7d8bd797ed" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 22 51 pm" src="https://github.com/user-attachments/assets/bb7fc3b6-fc19-431e-bf56-f5f2942e0098" />
-<img width="942" alt="Screenshot 2025-04-08 at 11 06 38 pm" src="https://github.com/user-attachments/assets/f915f2a6-a7df-4f24-9461-897a7d48c20b" />
-<img width="750" alt="Screenshot 2025-04-08 at 11 04 51 pm" src="https://github.com/user-attachments/assets/75c2e8fc-0398-47be-8088-cffd20efc176" />
-<img width="737" alt="Screenshot 2025-04-08 at 11 03 53 pm" src="https://github.com/user-attachments/assets/31d72582-3c3a-42e0-8570-00f34ac3bad6" />
-<img width="1073" alt="Screenshot 2025-04-08 at 11 02 08 pm" src="https://github.com/user-attachments/assets/87ba002c-9029-472c-9161-6988fe535bfc" />
-<img width="1060" alt="Screenshot 2025-04-08 at 10 58 38 pm" src="https://github.com/user-attachments/assets/579ca03b-082f-4100-ae03-15c21c48f70a" />
-<img width="768" alt="Screenshot 2025-04-09 at 12 07 47 am" src="https://github.com/user-attachments/assets/c05453ad-089e-47d1-84b5-14d28d24ebab" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 25 24 pm" src="https://github.com/user-attachments/assets/c60bd6dd-a72a-468a-9882-c65b2a4038dd" />
-<img width="768" alt="Screenshot 2025-04-09 at 9 17 44 pm" src="https://github.com/user-attachments/assets/e003e64d-1ece-430d-8527-c91f53e2153a" />
-<img width="1079" alt="Screenshot 2025-04-08 at 11 40 12 pm" src="https://github.com/user-attachments/assets/867b60e2-4212-49d8-b19f-238785423e6b" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 28 56 pm" src="https://github.com/user-attachments/assets/3d2d9952-bff4-4656-939b-667850d96d82" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 22 14 pm" src="https://github.com/user-attachments/assets/42bb5f56-9b76-48cb-9487-d4c0184dc112" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 21 23 pm" src="https://github.com/user-attachments/assets/fd4ad92d-b999-45e5-93df-abb92770ff2f" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 17 08 pm" src="https://github.com/user-attachments/assets/d8550221-628c-4730-a48b-bfce5773661a" />
-<img width="745" alt="Screenshot 2025-04-08 at 11 12 07 pm" src="https://github.com/user-attachments/assets/2267b5a9-3da0-4c94-a16d-820223e1cb74" />
-<img width="768" alt="Screenshot 2025-04-09 at 12 07 22 am" src="https://github.com/user-attachments/assets/e58853b5-3802-4b6a-9353-2cab2421be15" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 24 55 pm" src="https://github.com/user-attachments/assets/2b755719-e07c-41da-9613-c5bc6f27ac59" />
-<img width="768" alt="Screenshot 2025-04-09 at 9 16 02 pm" src="https://github.com/user-attachments/assets/69ff53aa-e63c-4604-aa8d-779f6f233dc3" />
-<img width="1079" alt="Screenshot 2025-04-08 at 11 39 36 pm" src="https://github.com/user-attachments/assets/ba23099c-a212-45be-bf9a-f91ba421de32" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 27 29 pm" src="https://github.com/user-attachments/assets/3a556039-2382-4266-bbef-f64da310ccfc" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 25 23 pm" src="https://github.com/user-attachments/assets/ac13583b-1d15-4fa8-993f-dbe285d00309" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 24 35 pm" src="https://github.com/user-attachments/assets/9aed6a31-0370-450c-ad8e-7d4384a5789c" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 35 44 pm" src="https://github.com/user-attachments/assets/bc5dd5f7-7f3a-460e-8ffb-1729be33bccb" />
-<img width="768" alt="Screenshot 2025-04-09 at 12 06 56 am" src="https://github.com/user-attachments/assets/8e3b6b35-5689-4c3a-abd3-7ae6082ff82f" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 23 14 pm" src="https://github.com/user-attachments/assets/0a0b6597-1e01-4883-80aa-3112dc2ec834" />
-<img width="768" alt="Screenshot 2025-04-09 at 9 15 25 pm" src="https://github.com/user-attachments/assets/1dc0d71b-d931-4950-8653-ae77a78de35e" />
-<img width="760" alt="Screenshot 2025-04-08 at 11 34 58 pm" src="https://github.com/user-attachments/assets/6a96defe-ef1c-429a-84a7-5f73b976d779" />
-<img width="768" alt="Screenshot 2025-04-08 at 11 45 05 pm" src="https://github.com/user-attachments/assets/23d8048a-4310-40d2-8bfb-335f9254dd1d" />
-<img width="768" alt="Screenshot 2025-04-09 at 9 11 59 pm" src="https://github.com/user-attachments/assets/25bc52c1-7f36-4652-8bec-278648585403" />
-<img width="747" alt="Screenshot 2025-04-09 at 9 22 13 pm" src="https://github.com/user-attachments/assets/bc8bb518-4237-40ec-aa01-ed19e6db1e69" />
+- <b>  Ubuntu 20.4.6 LTS </b>
+- <b> Target Machine (Provided by Try Hack Me) </b> 
+
+<h2>Program walk-through:</h2>
+
+
+<p align="center">
+  
+<p align="center">
+  
+I am using the Try Hack Me VM to perform this CTF. As shown below, the IP address of the target machine is 10.10.140.147 : <br/>
+<img width="1340" alt="Screenshot 2025-04-08 at 10 29 40 pm" src="https://github.com/user-attachments/assets/361055a1-744a-45ad-876f-211edfa88a47" />
+
+We need to ping this machine just to see if communication can be established between both the machines or not. Once, we are able to ping the target machine we need to use nmap command to check for open ports on the target machine. This is the initial step for enumeration. Here, we can see that multiple ports are open out of which we are interested in port 80 i.e. http : <br/>
+<img width="691" alt="Screenshot 2025-04-08 at 10 34 44 pm" src="https://github.com/user-attachments/assets/e0ab35d9-9e3e-4db8-a696-0c2add7e030a" />
+
+We will be going on to 10.10.140.147 in the browser. Here we can the web page for cyber lens : <br/>  
+<img width="886" alt="Screenshot 2025-04-08 at 10 37 46 pm" src="https://github.com/user-attachments/assets/85bffb5e-eaa7-4ebd-8bf7-cc4d80c972c2" />
+<img width="886" alt="Screenshot 2025-04-08 at 10 38 02 pm" src="https://github.com/user-attachments/assets/01cf5ea1-1a33-4d98-8254-839be5037667" />
+
+
+We will be searching for flags in this web page. Lets see if we find any useful information here. I will be looking into the View Source of this page. Here we found the port number 61777. I have used this port number and discovered a web page as below. We can see Apache 1.17 Tika Server: <br/>
+<img width="1060" alt="Screenshot 2025-04-08 at 10 58 38 pm" src="https://github.com/user-attachments/assets/6ddc95a4-619b-4ec1-be45-8b92c88c1a7d" />
+
+<img width="1060" alt="Screenshot 2025-04-08 at 10 57 33 pm" src="https://github.com/user-attachments/assets/d87d549f-6170-4de5-bd1d-7b6fd04e80e3" />
