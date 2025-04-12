@@ -52,6 +52,8 @@ For suppling the session number, we exceute command called sessions -i : </br>
 
 As we can see the session is 1, we need to set the SESSSION to 1 as below and use run command. This run command will help us find for any vulnerabilities or security misconfigurations which will enable us to escalate the privileges. We have found couple of vulnerabilities as shown in the below screenshot : </br>
 <img width="760" alt="Screenshot 2025-04-08 at 11 35 44 pm" src="https://github.com/user-attachments/assets/f58a02f2-a454-40d0-8a05-e4ce78261e3d" />
+
+The target machine's IP address got changed as I had some issues with the internet and as a result of that, I had to re-perform this CTF again. In Try Hack Me machines, every time the page is refreshed, the IP address changes. However, you need to follow the same steps I have done below :
 <img width="1079" alt="Screenshot 2025-04-08 at 11 39 36 pm" src="https://github.com/user-attachments/assets/7b93eb94-8059-4961-982d-885c281e8665" />
 
 We start with first exploit and try to see if we can find something here : </br>
