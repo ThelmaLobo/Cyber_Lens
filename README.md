@@ -58,7 +58,6 @@ We start with first exploit and try to see if we can find something here : </br>
 <img width="1079" alt="Screenshot 2025-04-08 at 11 40 12 pm" src="https://github.com/user-attachments/assets/c798492f-011f-4087-96f8-1207d779f32e" />
 
 We need to execute the use command : </br>
-<img width="768" alt="Screenshot 2025-04-08 at 11 42 15 pm" src="https://github.com/user-attachments/assets/6b2fc857-cc20-4726-bf89-142537fe1521" />
 <img width="768" alt="Screenshot 2025-04-08 at 11 43 09 pm" src="https://github.com/user-attachments/assets/da023be6-97ec-4ff3-85e5-d458944f344d" />
 <img width="768" alt="Screenshot 2025-04-08 at 11 43 38 pm" src="https://github.com/user-attachments/assets/a2d5dc8d-d7b1-44ea-b6e9-ee9d29cf0c0c" />
 
